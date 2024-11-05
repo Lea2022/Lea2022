@@ -1,11 +1,10 @@
 
-
-<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="250" height="250"> 
-
+![Header Image](header.png)
 
 # Welcome to My Portfolio 👋
 
 Hello! I'm Leandro Acuña, a backend develope. I am passionate about building efficient and scalable applications, and I am always looking to learn new technologies.
+<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="200" height="200"> 
 
 ---
 
