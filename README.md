@@ -1,14 +1,17 @@
 
-![Header Image](header.png)
-
+<div style="width: 100%; overflow: hidden;">
+    <img src="header.png" alt="Header Image" style="width: 100%; height: auto;">
+</div>
 # Welcome to My Portfolio 👋
 
 Hello! I'm Leandro Acuña, a backend develope. I am passionate about building efficient and scalable applications, and I am always looking to learn new technologies.
 
 
+<div style="width: 100%; text-align: center;">
+    <img src="path/to/your/header-image.png" alt="Header Image" width: 100; height: auto;">
+</div>
 
-
-<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="200" height="200"> 
+<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width: 100%; height: 200> 
 
 ---
 
