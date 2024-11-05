@@ -1,23 +1,11 @@
 
-<table>
-  <tr>
-    <td style="width: 70%; font-size: 1.2em;">
-      <!-- Texto a la izquierda con letra agrandada -->
-      <strong>Welcome to My Portfolio!!</strong><br>
-      I'm Leandro Acuña, a backend developer.
-    </td>
-    <td style="width: 30%; text-align: right;">
-      <!-- Imagen a la derecha -->
-      <img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="200" height="300">
-    </td>
-  </tr>
-</table>
 
+<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="150" height="150"> 
 
 
 # Welcome to My Portfolio 👋
 
-Hello! I'm Leandro Acuña, a backend developer specializing in Django. I am passionate about building efficient and scalable applications, and I am always looking to learn new technologies.
+Hello! I'm Leandro Acuña, a backend develope. I am passionate about building efficient and scalable applications, and I am always looking to learn new technologies.
 
 ---
 
