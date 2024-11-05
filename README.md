@@ -1,4 +1,20 @@
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <!-- Texto a la izquierda -->
+    
+    Welcome to My Portfolio !!
+     I'm Leandro Acuña, a backend developer
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <!-- Imagen a la derecha -->
+        <img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="200" height="300">
+  </div>
+</div>
+
+
+
+
 ![Portfolio Header](path/to/header.png) <!-- Replace 'path/to/header.png' with the actual path to your header image -->
 
 # Welcome to My Portfolio 👋
