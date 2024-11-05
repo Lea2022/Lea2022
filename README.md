@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="150" height="150"> 
+<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width="300" height="300"> 
 
 
 # Welcome to My Portfolio 👋
