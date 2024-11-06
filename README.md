@@ -1,17 +1,15 @@
+<h1 align="center">Welcome to My Portfolio 👋</h1>
 
-<div style="width: 100%; overflow: hidden;">
-    <img src="header.png" alt="Header Image" style="width: 100%; height: auto;">
-</div>
-# Welcome to My Portfolio 👋
-
-Hello! I'm Leandro Acuña, a backend develope. I am passionate about building efficient and scalable applications, and I am always looking to learn new technologies.
+<p align="center" style="font-size: 1.2em; line-height: 1.6;">
+  Hello! I'm <strong>Leandro Acuña</strong>, a <em>backend developer</em> passionate about building efficient and scalable applications.<br>
+  I'm always looking to <strong>learn new technologies</strong> and improve my skills.
+</p>
 
 
-<div style="width: 100%; text-align: center;">
-    <img src="path/to/your/header-image.png" alt="Header Image" width: 100; height: auto;">
-</div>
 
-<img src="https://media.giphy.com/media/YHkrDaZ59oqRC7CLiV/giphy.gif" alt="Sticker de Giphy" width: 100%; height: 200> 
+<p align="center">
+  <img src="heimer%20stiker.webp" alt="Heimer Sticker" width="200">
+</p>
 
 ---
 
