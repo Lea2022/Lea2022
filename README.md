@@ -20,14 +20,16 @@ I'm a developer with experience in Django and other backend technologies. I love
 
 ## 📂 Featured Projects
 
-### 1. **[Project Name 1](link-to-project)**
-   - **Description**: Brief description of the project. For example: A task manager app with full CRUD functionality.
-   - **Technologies**: Django, SQLite, HTML, CSS
+### 1. **[Event Booking System](https://github.com/Lea2022/event-booking-system)**
+   - **Description**: A web platform that allows users to browse, book, and manage event reservations with a simple, user-friendly interface.
+   - **Technologies**: Django, SQLite, HTML, CSS, Bootstrap
    - **Features**:
-     - Create, edit, and delete tasks.
-     - User authentication system.
-     - User-friendly and intuitive interface.
-
+     - User authentication system (registration, login, logout).
+     - Browse and view available events.
+     - Reserve events and view your bookings.
+     - Cancel or confirm reservations.
+     - Real-time updates on the number of confirmed attendees for each event.
+     - User-friendly and intuitive interface with Bootstrap for responsive design.
 ### 2. **[E-COMMERCE-DJANGO](https://github.com/Lea2022/E-COMMERCE-DJANGO.git)**
    - **Description**: A fully-functional e-commerce site built with Django, where users can browse, add, and remove products. Shoppers can select items, add them to their cart, and proceed to checkout, where they validate their details to complete the purchase.
    - **Technologies**: Django, Bootstrap, PostgreSQL
