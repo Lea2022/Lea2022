@@ -30,7 +30,7 @@ I'm a developer with experience in Django and other backend technologies. I love
      - Cancel or confirm reservations.
      - Real-time updates on the number of confirmed attendees for each event.
      - User-friendly and intuitive interface with Bootstrap for responsive design.
-### 2. **[E-COMMERCE-DJANGO](https://github.com/Lea2022/E-COMMERCE-DJANGO.git)**
+### 2. **[E-COMMERCE-DJANGO](https://github.com/Lea2022/e-commerce-django)**
    - **Description**: A fully-functional e-commerce site built with Django, where users can browse, add, and remove products. Shoppers can select items, add them to their cart, and proceed to checkout, where they validate their details to complete the purchase.
    - **Technologies**: Django, Bootstrap, PostgreSQL
    - **Features**:
