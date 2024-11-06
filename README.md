@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="heimer%20stiker.webp" alt="Heimer Sticker" width="200">
+  <img src="heimer%20stiker.webp" alt="Heimer Sticker" width="400">
 </p>
 
 ---
