@@ -38,14 +38,15 @@ I'm a developer with experience in Django and other backend technologies. I love
      - User-friendly product browsing.
      - Shopping cart with item management.
      - Checkout with customer data validation for purchases.
-### 3. **[Project Name 3](link-to-project)**
-   - **Description**: An e-commerce project with shopping cart and payment gateway.
-   - **Technologies**: Django, Stripe API, JavaScript
+### 3. **[DJANGOBLOG](https://github.com/Lea2022/DJANGOBLOG)**
+   - **Description**: A Django-based blog platform where users can create, edit, and view posts. The blog includes features like comments, user authentication, and an admin panel for managing content.
+   - **Technologies**: Django, HTML, CSS, JavaScript, Bootstrap.
    - **Features**:
-     - Add products to cart and manage purchases.
-     - Integrated payment gateway.
-     - Admin panel for managing products and orders.
-
+     - Create and publish blog posts with text and images.
+     - User authentication for post creation and management.
+     - Comment system for users to interact with posts.
+     - Posts can be saved as drafts or published.
+     - Integrated admin panel for managing posts and users.
 ---
 
 ## 🎓 Education
