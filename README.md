@@ -31,7 +31,9 @@
 
 
 ## 🚀 About Me
-I'm a developer with experience in Django and other backend technologies. I love creating innovative solutions and strive to improve my skills every day. In this portfolio, you'll find some of my highlighted projects that showcase my expertise and passion for development.
+As a psychologist, I never expected to find my passion in code. But the moment I delved into backend development, I was hooked. Driven by curiosity and the desire to solve problems, I dedicated myself to learning Django, PostgreSQL, and Django REST Framework. With every project, I found myself increasingly inspired by the challenge of building efficient, secure, and scalable applications.
+
+Here, you’ll see some of the projects I’ve crafted—each one an opportunity to apply my skills and deepen my understanding of backend design. I’m excited to bring this dedication and creativity to a team, ready to keep learning and tackling new challenges. Let’s build something remarkable together! ✨
 
 ---
 
@@ -67,16 +69,22 @@ I'm a developer with experience in Django and other backend technologies. I love
 ---
 
 ## 🎓 Education
-- **[Your Institution Name]** — Degree or certification earned
+- **Degree in Psychology** — Siglo 21 University.
 - **Additional Courses**:
-  - Web Development with Django - [Academy or platform]
-
+  - Certified in Data Science with Python. - [Data Camp]
+  - Certified in Data analysis with Python. - [Data Camp]
+  - I study backend development in a self-taught way.
+    Official documentation, tutorials, videos, forums. Anything that can contribute to better code.
 ---
 
-## ✉️ Let’s connect! 📬
+Thank you for visiting my portfolio ✨
+"I hope you enjoyed exploring my work. If you’d like to connect or discuss potential collaborations, I’d love to hear from you. Let’s make great things happen together!"
 
-"Let’s build something amazing together 🚀"
-
+<p align="center">
+  <img src="heimer%20stiker%2.webp" alt="Heimer Sticker" width="350">
+</p>
+---
+### ✉️ Let’s connect! 📬
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](acunalean147@gmail.com)
 
@@ -89,4 +97,3 @@ I'm a developer with experience in Django and other backend technologies. I love
 
 ---
 
-### Thank you for visiting my portfolio ✨
