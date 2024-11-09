@@ -1,18 +1,16 @@
 <h1 align="center" style="font-family: monospace; font-size: 30px;">Welcome to My Portfolio 👋</h1>
 
-<p align="center" style="font-family: monospace; font-size: 18px;">
+<h2 align="center">
   Hello! I'm <strong>Leandro Acuña</strong>, a <em>backend developer</em> passionate about building efficient and scalable applications.<br>
   I'm always looking to <strong>learn new technologies</strong> and improve my skills.
-</p>
+</h2>
 <p align="center">
   <img src="heimer%20stiker.webp" alt="Heimer Sticker" width="350">
 </p>
 
 ---
-<p align="center" style="font-family: monospace; font-size: 24px;">
-Tecnologias 💻
-</p>
 
+## Tecnologias 💻
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,22 +29,22 @@ Tecnologias 💻
 
 ---
 
-<p align="center" style="font-family: monospace; font-size: 24px;">
-🚀 About Me
-</p>
 
-<p align="center" style="font-family: monospace; font-size: 18px;">
+## 🚀 About Me
+
+<h3 align="center">
 As a psychologist, I never expected to find my passion in code. But the moment I delved into backend development, I was hooked. Driven by curiosity and the desire to solve problems, I dedicated myself to learning Django, PostgreSQL, and Django REST Framework. With every project, I found myself increasingly inspired by the challenge of building efficient, secure, and scalable applications.
-</p>
-<p align="center" style="font-family: monospace; font-size: 18px;">
-Here, you’ll see some of the projects I’ve crafted—each one an opportunity to apply my skills and deepen my understanding of backend design. I’m excited to bring this dedication and creativity to a team, ready to keep learning and tackling new challenges. Let’s build something remarkable together! ✨
-</p>
+</h3>
+
+<h3 align="center">
+Here, you’ll see some of the projects I’ve crafted—each one an opportunity to apply my skills and deepen my understanding of backend design. I’m excited to bring this dedication and creativity to a team, ready to keep learning and tackling new challenges. Let’s build something remarkable together!
+</h3>
 
 
 ---
-<p align="center" style="font-family: monospace; font-size: 24px;">
-📂 Featured Projects
-</p>
+
+## 📂 Featured Projects
+
 
 
 ### 1. **[Event Booking System](https://github.com/Lea2022/event-booking-system)**
@@ -85,11 +83,12 @@ Here, you’ll see some of the projects I’ve crafted—each one an opportunity
   - Certified in Data analysis with Python. - [Data Camp]
   - I study backend development in a self-taught way.
     Official documentation, tutorials, videos, forums. Anything that can contribute to better code.
-    <p align="center">
+
+<p align="center">
   <img src="heimer stiker 2.webp" alt="Heimer Sticker 2" width="350">
 </p> 
 
-<p align="center" style="font-family: monospace; font-size: 18px;">
+<p align="center">
   <strong>Thank you for visiting my portfolio ✨</strong>  
   <br><br>
   <strong>"I hope you enjoyed exploring my work. If you’d like to connect 🤝 or discuss potential collaborations 💡, I’d love to hear from you. Let’s make great things happen together! 🚀"</strong>
