@@ -44,6 +44,7 @@ Here, you’ll see some of the projects I’ve crafted—each one an opportunity
 <h2 align="center">
  📂 Featured Projects
 </h2>
+
 ### 1. **[Event Booking System](https://github.com/Lea2022/event-booking-system)**
    - **Description**: A web platform that allows users to browse, book, and manage event reservations with a simple, user-friendly interface.
    - **Technologies**: Django, SQLite, HTML, CSS, Bootstrap
