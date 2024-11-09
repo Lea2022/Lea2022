@@ -1,5 +1,4 @@
 <h1 align="center" style="font-family: monospace; font-size: 30px;">Welcome to My Portfolio 👋</h1>
-
 <h2 align="center">
   Hello! I'm <strong>Leandro Acuña</strong>, a <em>backend developer</em> passionate about building efficient and scalable applications.<br>
   I'm always looking to <strong>learn new technologies</strong> and improve my skills.
@@ -8,10 +7,9 @@
   <img src="heimer%20stiker.webp" alt="Heimer Sticker" width="350">
 </p>
 
----
-
-## Tecnologias 💻
-
+<h2 align="center">
+ Tecnologias 💻
+</h2>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -27,10 +25,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-
-## 🚀 About Me
+<h2 align="center">
+ 🚀 About Me
+</h2>
 
 <h3 align="center">
 As a psychologist, I never expected to find my passion in code. But the moment I delved into backend development, I was hooked. Driven by curiosity and the desire to solve problems, I dedicated myself to learning Django, PostgreSQL, and Django REST Framework. With every project, I found myself increasingly inspired by the challenge of building efficient, secure, and scalable applications.
@@ -42,11 +40,9 @@ Here, you’ll see some of the projects I’ve crafted—each one an opportunity
 
 
 ---
-
-## 📂 Featured Projects
-
-
-
+<h2 align="center">
+ 📂 Featured Projects
+</h2>
 ### 1. **[Event Booking System](https://github.com/Lea2022/event-booking-system)**
    - **Description**: A web platform that allows users to browse, book, and manage event reservations with a simple, user-friendly interface.
    - **Technologies**: Django, SQLite, HTML, CSS, Bootstrap
@@ -74,9 +70,12 @@ Here, you’ll see some of the projects I’ve crafted—each one an opportunity
      - Comment system for users to interact with posts.
      - Posts can be saved as drafts or published.
      - Integrated admin panel for managing posts and users.
----
 
-## 🎓 Education
+---
+<h2 align="center">
+ 🎓 Education
+</h2>
+
 - **Degree in Psychology** — Siglo 21 University.
 - **Additional Courses**:
   - Certified in Data Science with Python. - [Data Camp]
@@ -88,11 +87,11 @@ Here, you’ll see some of the projects I’ve crafted—each one an opportunity
   <img src="heimer stiker 2.webp" alt="Heimer Sticker 2" width="350">
 </p> 
 
-<p align="center">
-  <strong>Thank you for visiting my portfolio ✨</strong>  
+<h2 align="center">
+  Thank you for visiting my portfolio ✨
   <br><br>
-  <strong>"I hope you enjoyed exploring my work. If you’d like to connect 🤝 or discuss potential collaborations 💡, I’d love to hear from you. Let’s make great things happen together! 🚀"</strong>
-</p>
+  "I hope you enjoyed exploring my work. If you’d like to connect 🤝 or discuss potential collaborations 💡, I’d love to hear from you. Let’s make great things happen together! 🚀"
+</h2>
 
 
 
